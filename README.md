@@ -1,2 +1,3 @@
 # hello-world
-firsttry
+first-try
+no idea how github works
